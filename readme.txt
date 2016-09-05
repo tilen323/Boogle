@@ -1,0 +1,1 @@
+To je pomozna datoteka
