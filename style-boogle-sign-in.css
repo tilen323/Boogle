@@ -1,0 +1,151 @@
+/** {
+    border: 1px solid black;
+}*/
+
+* {
+    margin: 0;
+    padding: 0;  
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#boogle-img-1 {
+    height: 40px;
+    width: 120px;
+    margin-top: 35px;
+    margin-bottom: 25px;
+}
+
+#text-1 {
+    margin-top: 10px;
+    color: #5f5f5f;
+}
+
+#text-1-1 {
+    font-size: 42px;
+    font-weight: 300;    
+}
+
+#text-1-2 {
+    font-size: 18px;
+    margin-top: 25px;
+}
+
+#login-box {
+    height: 320px;
+    width: 350px;
+    background-color: #f4f4f4;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border-bottom: 2px solid #b2b2b2;
+    border-left: 1px solid #d3d3d3;
+    border-right: 1px solid #d3d3d3;
+}
+
+#login-img-1 {
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    margin-top: 35px;
+}
+
+#iskalnik {
+    padding-top: 25px;
+}
+
+input {
+    height: 37px;
+    width: 270px;
+    font-size: 16px;
+    padding-left: 5px;
+}
+
+.button {
+    border: 1px solid #3a6dc9;
+    height: 37px;
+    width: 277px;
+    margin-left: 36px;
+    margin-top: 10px;
+    border-radius: 3px;
+    background-color: #4e89f2;
+    font-weight: bold;
+}
+
+.button:hover {
+    background-color: #3d7ef2;
+    border: 1px solid #294983;   
+}
+
+#naprej {
+    text-decoration: none;
+    color: white;
+}
+
+#naprej-1 {
+    height: 37px;
+    width: 277px;
+    font-size: 14px;
+}
+
+#naprej-1-1 {
+    padding-top: 10px;
+}
+
+
+#pomoc {
+    text-decoration: none;
+    font-size: 13px;
+    color: #0080ff;
+    float: right;
+    margin-right: 36px;
+    margin-top: 10px;
+}
+
+#pomoc:hover {
+    text-decoration: underline;
+}
+
+#sign-up {
+    margin-top: 20px;
+}
+
+#sign-up-a {
+    text-decoration: none;
+    font-size: 14px;
+    color: #0080ff;
+}
+
+#sign-up-a:hover {
+    text-decoration: underline;
+}
+
+#footer {
+    margin-top: 60px;
+}
+
+#footer-imgs {
+    margin-top: 10px;
+}
+
+#text-2 {
+    color: #5f5f5f;
+    font-size: 14px;
+}
+
+#footer {
+    margin-bottom: 100px;
+}
+
+.footer-img {
+    height: 16px;
+    width: 16px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+
+

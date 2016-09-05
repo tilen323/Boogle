@@ -1,0 +1,118 @@
+/** {
+    border: 1px solid black;
+}*/
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#main-content {
+    margin-left: 50%;
+}
+
+#one-button {
+    width: 70px;
+    height: 30px;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    display: inline;
+    float: right;
+    margin-top: -195px;
+    margin-right: 25px;
+}
+
+#button-sign-in {
+    text-decoration: none;
+    width: 70px;
+    height: 30px;
+    color: white;
+}
+
+#button3 {
+    height: 30px;
+    width: 70px;
+    border-radius: 3px;
+    background-color: #3d7ef2;
+}
+
+#button3:hover {
+    background-color: #206bf2;
+}
+
+#prijava {
+    padding-top: 7px;
+}
+
+#boogle-img {
+    margin-left: -150px;
+    margin-top: 200px;
+}
+
+img {
+    height: 100px;
+    width: 300px;
+}
+
+#iskalnik {
+    margin-left: -300px;
+    margin-top: 20px;
+}
+
+input {
+    height: 30px;
+    width: 600px;
+    font-size: 16px;
+    padding-left: 5px;
+}
+
+#two-buttons {
+    width: 250px;
+    margin-left: -125px;
+    margin-top: 30px;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+    color: #797979;
+    margin-bottom: 150px;
+}
+
+.button {
+    color: #797979;
+}
+
+.button:active {
+    color: #797979;
+}
+
+.button1 {
+    height: 40px;
+    width: 120px;
+    border-radius: 3px;
+    background-color: #f0f0f0;
+    float: left;
+}
+
+.button2 {
+    height: 40px;
+    width: 120px;
+    border-radius: 3px;
+    background-color: #f0f0f0;
+    float: right;
+}
+
+.button1:hover {
+    border: 1px solid #bcbcbc;
+    color: black;
+}
+
+.button2:hover {
+    border: 1px solid #bcbcbc;
+    color: black;
+}
+
+
